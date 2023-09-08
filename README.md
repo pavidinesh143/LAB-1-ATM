@@ -20,7 +20,7 @@ to withdraw money,deposit.
 
 3. Draw the diagram.
 
-4. Sve the diagram successfully.
+4. Save the diagram successfully.
 
 5. Execute it.
 
