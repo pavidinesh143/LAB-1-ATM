@@ -12,6 +12,5 @@ to withdraw money,deposit.
 
 
 
-
 ### RESULT: 
 Thus the Atm and banking System project was executed and the output was verified.
